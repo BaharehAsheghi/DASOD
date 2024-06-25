@@ -1,4 +1,4 @@
-# DASOD: Detail-Aware Salient Object Detection [IMAVIS 2024] ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624002592))
+# DASOD: Detail-Aware Salient Object Detection ##[IMAVIS 2024] ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624002592))
 
 ## Download datasets and prepare the data
 Download the following datasets and unzip them into the `Dataset` folder in SINet-V2-main:
